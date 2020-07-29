@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "758535185630",
+    "firebase_url": "https://appcaliddalectura.firebaseio.com",
+    "project_id": "appcaliddalectura",
+    "storage_bucket": "appcaliddalectura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758535185630:android:c6534ea106d2a40b",
+        "android_client_info": {
+          "package_name": "com.calida.dsige.lectura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758535185630-kmd3r1cbl32jooo62uak2b94dfhbtql1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calida.dsige.lectura",
+            "certificate_hash": "6f8c68173655b585fd89def328a9e0891cd6f520"
+          }
+        },
+        {
+          "client_id": "758535185630-2v4l0i7mi6deah8jvqnvbrrkmk0iat5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calida.dsige.lectura",
+            "certificate_hash": "b2ed9b9395b88bbd55d8a7d955d67e26527475a7"
+          }
+        },
+        {
+          "client_id": "758535185630-fprqilkeogm230uibiu2f07j8q9jrhcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6PUoaC-7IeHmqAwiS1oMabRmdt3bem4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758535185630-fprqilkeogm230uibiu2f07j8q9jrhcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758535185630:android:9bb4e8ddef7509912ace4f",
+        "android_client_info": {
+          "package_name": "com.calida.dsige.reparto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758535185630-bddjq657eej3tb8rn530ramt4i9gb4pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calida.dsige.reparto",
+            "certificate_hash": "048636545d0acf24b76c3fd4e9f46eccc3b0a915"
+          }
+        },
+        {
+          "client_id": "758535185630-fprqilkeogm230uibiu2f07j8q9jrhcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6PUoaC-7IeHmqAwiS1oMabRmdt3bem4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758535185630-fprqilkeogm230uibiu2f07j8q9jrhcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
